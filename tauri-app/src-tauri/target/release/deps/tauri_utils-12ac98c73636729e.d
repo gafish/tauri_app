@@ -1,0 +1,11 @@
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/tauri_utils-12ac98c73636729e.rmeta: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/assets.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/config.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/html.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/platform.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/libtauri_utils-12ac98c73636729e.rlib: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/assets.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/config.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/html.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/platform.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/tauri_utils-12ac98c73636729e.d: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/assets.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/config.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/html.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/platform.rs
+
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/lib.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/assets.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/config.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/html.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-utils-1.0.0-beta.3/src/platform.rs:

@@ -1,0 +1,10 @@
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/libtauri_macros-83c449fcc7ed9e56.dylib: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/mod.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/handler.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/wrapper.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/runtime.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/context.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/tauri_macros-83c449fcc7ed9e56.d: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/mod.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/handler.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/wrapper.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/runtime.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/context.rs
+
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/lib.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/mod.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/handler.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/command/wrapper.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/runtime.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.0-beta.5/src/context.rs:

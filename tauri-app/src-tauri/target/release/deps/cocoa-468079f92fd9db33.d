@@ -1,0 +1,12 @@
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/cocoa-468079f92fd9db33.rmeta: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/libcocoa-468079f92fd9db33.rlib: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/cocoa-468079f92fd9db33.d: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs:

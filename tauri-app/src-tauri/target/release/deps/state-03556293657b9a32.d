@@ -1,0 +1,12 @@
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/state-03556293657b9a32.rmeta: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/libstate-03556293657b9a32.rlib: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/gafish/github/tauri_app/tauri-app/src-tauri/target/release/deps/state-03556293657b9a32.d: /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs:
+/Users/gafish/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs:
