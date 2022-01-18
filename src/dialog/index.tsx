@@ -1,12 +1,12 @@
-import DialogOpen from './open'
-import DialogSave from './save'
+import Open from './open'
+import Save from './save'
 
 const App = () => {
   return (
     <div>
       <h2>dialog</h2>
-      <DialogOpen />
-      <DialogSave />
+      <Open />
+      <Save />
     </div>
   )
 }
