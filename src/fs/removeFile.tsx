@@ -18,7 +18,7 @@ const App = () => {
           })
         }}
       >
-        remove
+        click
       </button>
       <p>{ok && '删除文件完成'}</p>
     </div>

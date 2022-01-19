@@ -16,7 +16,7 @@ const App = () => {
           })
         }}
       >
-        open
+        click
       </button>
       <p>保存路径: {paths}</p>
     </div>

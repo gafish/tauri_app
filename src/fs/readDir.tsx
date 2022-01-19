@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        read
+        click
       </button>
       <p>桌面文件列表</p>
       <ul>

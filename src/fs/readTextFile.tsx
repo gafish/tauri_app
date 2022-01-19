@@ -18,7 +18,7 @@ const App = () => {
           })
         }}
       >
-        read
+        click
       </button>
       <p>{text}</p>
     </div>

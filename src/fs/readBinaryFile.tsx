@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        read
+        click
       </button>
       <p>{ok && '打开控制台查看打印结果'}</p>
     </div>

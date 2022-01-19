@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        copy
+        click
       </button>
       <p>{ok && '复制完成'}</p>
     </div>

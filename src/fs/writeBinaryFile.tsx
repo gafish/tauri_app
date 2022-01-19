@@ -21,7 +21,7 @@ const App = () => {
           })
         }}
       >
-        write
+        click
       </button>
       <p>{ok && '文件写入完成'}</p>
     </div>

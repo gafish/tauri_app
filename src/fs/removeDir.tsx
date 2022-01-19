@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        remove
+        click
       </button>
       <p>{ok && '目录删除完成'}</p>
     </div>

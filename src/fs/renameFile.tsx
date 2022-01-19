@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        rename
+        click
       </button>
       <p>{ok && '重命名完成'}</p>
     </div>

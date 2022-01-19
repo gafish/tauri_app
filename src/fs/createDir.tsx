@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        create
+        click
       </button>
       <p>{ok && '目录创建完成'}</p>
     </div>

@@ -19,7 +19,7 @@ const App = () => {
           })
         }}
       >
-        open
+        click
       </button>
       <p>所选目录或文件: </p>
       <ul>
