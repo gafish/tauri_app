@@ -3,6 +3,7 @@ import FS from './fs'
 import App from './app'
 import Cli from './cli'
 import Clipboard from './clipboard'
+import Event from './event'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -13,6 +14,7 @@ export default function Entry() {
       <App />
       <Cli />
       <Clipboard />
+      <Event />
       <Invoke />
     </div>
   )
