@@ -7,6 +7,7 @@ import Event from './event'
 import GlobalShortcut from './globalShortcut'
 // import HelpersEvent from './helpers_event'
 // import HelpersOSCheck from './helpers_os_check'
+import Http from './http'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -21,6 +22,7 @@ export default function Entry() {
       <GlobalShortcut />
       {/* <HelpersEvent /> */}
       {/* <HelpersOSCheck /> */}
+      <Http />
       <Invoke />
     </div>
   )
