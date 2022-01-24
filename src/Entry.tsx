@@ -5,6 +5,8 @@ import Cli from './cli'
 import Clipboard from './clipboard'
 import Event from './event'
 import GlobalShortcut from './globalShortcut'
+// import HelpersEvent from './helpers_event'
+// import HelpersOSCheck from './helpers_os_check'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -17,6 +19,8 @@ export default function Entry() {
       <Clipboard />
       <Event />
       <GlobalShortcut />
+      {/* <HelpersEvent /> */}
+      {/* <HelpersOSCheck /> */}
       <Invoke />
     </div>
   )
