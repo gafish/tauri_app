@@ -5,7 +5,7 @@ import GetVersion from './getVersion'
 const App = () => {
   return (
     <div>
-      <h2>dialog</h2>
+      <h2>app</h2>
       <GetName />
       <GetTauriVersion />
       <GetVersion />

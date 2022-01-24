@@ -1,7 +1,8 @@
 import Dialog from './dialog'
 import FS from './fs'
-import Invoke from './invoke'
 import App from './app'
+import Cli from './cli'
+import Invoke from './invoke'
 
 export default function Entry() {
   return (
@@ -9,6 +10,7 @@ export default function Entry() {
       <Dialog />
       <FS />
       <App />
+      <Cli />
       <Invoke />
     </div>
   )
