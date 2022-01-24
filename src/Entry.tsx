@@ -2,6 +2,7 @@ import Dialog from './dialog'
 import FS from './fs'
 import App from './app'
 import Cli from './cli'
+import Clipboard from './clipboard'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -11,6 +12,7 @@ export default function Entry() {
       <FS />
       <App />
       <Cli />
+      <Clipboard />
       <Invoke />
     </div>
   )
