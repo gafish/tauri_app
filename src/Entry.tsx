@@ -4,6 +4,7 @@ import App from './app'
 import Cli from './cli'
 import Clipboard from './clipboard'
 import Event from './event'
+import GlobalShortcut from './globalShortcut'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -15,6 +16,7 @@ export default function Entry() {
       <Cli />
       <Clipboard />
       <Event />
+      <GlobalShortcut />
       <Invoke />
     </div>
   )
