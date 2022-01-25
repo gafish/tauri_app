@@ -12,6 +12,7 @@ import Notification from './notification'
 import OS from './os'
 import Path from './path'
 import Process from './process'
+import Shell from './shell'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -31,6 +32,7 @@ export default function Entry() {
       <OS />
       <Path />
       <Process />
+      <Shell />
       <Invoke />
     </div>
   )
