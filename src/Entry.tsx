@@ -13,6 +13,7 @@ import OS from './os'
 import Path from './path'
 import Process from './process'
 import Shell from './shell'
+import Tauri from './tauri'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -33,6 +34,7 @@ export default function Entry() {
       <Path />
       <Process />
       <Shell />
+      <Tauri />
       <Invoke />
     </div>
   )
