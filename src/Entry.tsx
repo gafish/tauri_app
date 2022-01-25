@@ -10,6 +10,7 @@ import GlobalShortcut from './globalShortcut'
 import Http from './http'
 import Notification from './notification'
 import OS from './os'
+import Path from './path'
 import Invoke from './invoke'
 
 export default function Entry() {
@@ -27,6 +28,7 @@ export default function Entry() {
       <Http />
       <Notification />
       <OS />
+      <Path />
       <Invoke />
     </div>
   )
