@@ -5,7 +5,7 @@ import SendNotification from './sendNotification'
 const App = () => {
   return (
     <div>
-      <h2>dialog</h2>
+      <h2>notification</h2>
       <IsPermissionGranted />
       <RequestPermission />
       <SendNotification />
